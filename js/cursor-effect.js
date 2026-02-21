@@ -1,4 +1,4 @@
-const CURSORBLOCK_HEIGHT = CURSORBLOCK_WIDTH = 500;
+const CURSORBLOCK_HEIGHT = CURSORBLOCK_WIDTH = 20;
 //const CURSORBLOCK_WIDTH = 250;
 
 var html = document.querySelector("html");
